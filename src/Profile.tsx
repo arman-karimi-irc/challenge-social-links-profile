@@ -3,7 +3,7 @@ export default function Profile() {
     <div className="">
       <img
         className="rounded-full"
-        src="/public/assets/images/avatar-jessica.jpeg"
+        src="/assets/images/avatar-jessica.jpeg"
         alt="avatar"
       />
       <h2 className="font-inter text-2xl">Jessica Randall</h2>
